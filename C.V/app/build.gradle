@@ -7,7 +7,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "tn.esprit.cv"
+        applicationId "com.example.applicationcurriculumvitaev2"
         minSdk 21
         targetSdk 33
         versionCode 1
